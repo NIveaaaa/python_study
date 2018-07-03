@@ -2,5 +2,5 @@
 
 A PYTHON learner's journey
 
-travis-web
-https://api.travis-ci.org/travis-ci/travis-web
+[![Build Status](https://api.travis-ci.org/repos/travis-ci/travis-web.svg?branches=python_study)]
+(https://api.travis-ci.org/travis-ci/travis-web)
