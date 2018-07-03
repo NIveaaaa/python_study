@@ -1,0 +1,4 @@
+{
+  "test_fib.py::test_fib0": true,
+  "test_sinc2d.py::test_corner": true
+}

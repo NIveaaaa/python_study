@@ -1,0 +1,18 @@
+[
+  "test_f.py::test_f",
+  "test_f.py::test_f_with_no",
+  "test_fib.py::test_fib0",
+  "test_fib.py::test_fib1",
+  "test_fib.py::test_fib6",
+  "test_mean.py::test_str",
+  "test_mean.py::test_ints",
+  "test_mean.py::test_empty",
+  "test_mean.py::test_zero",
+  "test_mean.py::test_double",
+  "test_mean.py::test_long",
+  "test_mean.py::test_complex",
+  "test_sinc2d.py::test_internal",
+  "test_sinc2d.py::test_edge_x",
+  "test_sinc2d.py::test_edge_y",
+  "test_sinc2d.py::test_corner"
+]
